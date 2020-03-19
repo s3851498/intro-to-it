@@ -1,8 +1,9 @@
 body{
   background-color: black;
-  width: 800px;
+  max-width: 960px;
   border-style: double;
-  padding: 30px 20px 50px 20px;
+  padding: 50px 20px 50px 20px;
+    margin: auto;
 }
 *{
   font-family: Roboto, sans-serif;
